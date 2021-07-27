@@ -1,3 +1,4 @@
 warna
 -pink
 -biru
+-hitam
