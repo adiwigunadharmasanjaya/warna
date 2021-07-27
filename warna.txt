@@ -2,3 +2,5 @@ warna
 -pink
 -biru
 -hitam
+-merah
+-hijau
